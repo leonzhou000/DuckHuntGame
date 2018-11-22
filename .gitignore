@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+DuckHuntV_2.vcxproj.user
+DuckHuntV_2.sln
+DunkHuntV2.zip
+DuckHuntV_2.vcxproj.filters
+DuckHuntV_2.vcxproj
+addons.make
+icon.rc
